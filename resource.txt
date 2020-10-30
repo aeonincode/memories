@@ -1,0 +1,18 @@
+in server side
+$ npm install body-parser cors express mongoose nodemon
+
+in client side
+$ npx create-react-app ./
+$ npm install axios moment react-file-base64 redux redux-thunk
+
+
+
+Full GitHub Repository:
+https://github.com/adrianhajdin/project_mern_memories
+
+Image: http://bit.ly/memories_image
+
+Styles Files:
+https://gist.github.com/adrianhajdin/d99aaa67124f0de7667fd3937715fb26
+
+
